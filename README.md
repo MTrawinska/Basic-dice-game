@@ -1,5 +1,7 @@
 # Dice-game
+
 Simple dice game 
+
 GAME RULES: 
 - The game has 2 players, playing in rounds 
 - In each turn, a player rolls a dice as many times as he whishes. Each result get added to his round score - 'SCORE'
@@ -8,4 +10,8 @@ GAME RULES:
 After that, it's the next player's turn 
 - The first player to reach 20 points on global score wins the game 
 
-Project was completed based on "The Complete JavaScript Course 2020: Build Real Projects!" UDEMY
+Used: CSS3/ HTML5 and Vanilla JS.
+
+Photos from Unsplash, gif from Gimphy.
+
+Project was completed based on "The Complete JavaScript Course 2020: Build Real Projects!" UDEMY.
