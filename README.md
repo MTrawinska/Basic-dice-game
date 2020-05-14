@@ -15,3 +15,5 @@ Used: CSS3/ HTML5 and Vanilla JS.
 Photos from Unsplash, gif from Gimphy.
 
 Project was completed based on "The Complete JavaScript Course 2020: Build Real Projects!" UDEMY.
+
+Please check live version https://mtrawinska.github.io/Dice-game/
