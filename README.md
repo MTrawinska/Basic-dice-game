@@ -12,7 +12,7 @@ After that, it's the next player's turn
 
 Used: CSS3/ HTML5 and Vanilla JS.
 
-Photos from Unsplash, gif from Gimphy.
+Photos from Unsplash, gif from Gimphy, fonts from Font Awsome.
 
 Project was completed based on "The Complete JavaScript Course 2020: Build Real Projects!" UDEMY.
 
